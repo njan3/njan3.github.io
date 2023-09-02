@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <h1>Janelle Ng</h1>
   <h3>SUTD 2025 | Mechanical Engineer</h3>
